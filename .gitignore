@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.DS_Store
+.ipynb_checkpoints/
+*.db
+*.sqlite*
+artifacts/
+models/
+coverage.xml
+htmlcov/
