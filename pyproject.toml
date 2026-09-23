@@ -1,0 +1,9 @@
+[project]
+name = "modern-ai-engineering-path-2026"
+version = "0.1.0"
+description = "A production-oriented AI engineering learning path"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
